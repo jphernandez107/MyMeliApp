@@ -1,0 +1,6 @@
+framework module Pods_MyMeli_Example {
+  umbrella header "Pods-MyMeli_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

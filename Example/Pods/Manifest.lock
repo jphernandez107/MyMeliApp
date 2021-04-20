@@ -1,0 +1,16 @@
+PODS:
+  - MyMeli (0.1.0)
+
+DEPENDENCIES:
+  - MyMeli (from `../`)
+
+EXTERNAL SOURCES:
+  MyMeli:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MyMeli: 786fc1d86ee96118edd16cc520eef43c342f88a1
+
+PODFILE CHECKSUM: 50a211abfd19b87eafbe817e334adc253231c53c
+
+COCOAPODS: 1.10.1

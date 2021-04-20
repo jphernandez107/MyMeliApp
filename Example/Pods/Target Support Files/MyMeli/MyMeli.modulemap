@@ -1,0 +1,6 @@
+framework module MyMeli {
+  umbrella header "MyMeli-umbrella.h"
+
+  export *
+  module * { export * }
+}
